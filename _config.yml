@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+deploy:  
+  type: git  
+  repo: git@github.com:shaozhihang/shaozhihang.github.io.git  
+  branch: master 
